@@ -1,3 +1,6 @@
+
+![Screenshot_3](https://github.com/sergiorbotelho/clone-tiktok/assets/71743953/3c860b36-2dbe-43ae-9741-74866be46951)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
